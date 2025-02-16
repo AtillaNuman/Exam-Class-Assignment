@@ -11,6 +11,6 @@ The system, which places distance education students in the relevant classrooms 
 - PHP (Backend)
 - MySQL (Database)
 ## Usage
-1. Students log in with their specified numbers and their surnames ![App Screenshot](screenshots/home page.png)
+1. Students log in with their specified numbers and their surnames ![App Screenshot](screenshots/home-page.png)
 2. The system assigns students to classrooms based on how much courses they take. ![App Screenshot](success.png) or ![App Screenshot](error.png)
 3. The assigned exam room is displayed on the new page which a student can print it. ![App Screenshot](directed page.png)
