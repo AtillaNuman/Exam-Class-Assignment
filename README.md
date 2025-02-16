@@ -1,3 +1,2 @@
 # Ogrenci-Sinav-Dersligi-Atama
-Uzaktan eğitim öğrencilerini aldıkları ders sayısına göre ilgili dersliklere vize ve final sınavı için yerleştiren sistem 
-Html, css, javascript(ajax) ve php ile kodlanmıştır.
+The system, which places distance education students in the relevant classrooms for midterm and final exams according to the number of courses they take, is coded with html, css, javascript and php.
